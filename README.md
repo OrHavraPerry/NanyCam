@@ -1,4 +1,4 @@
-# NanyPrint
+# NanyCam
 AI Nany for 3d Printers
 
 Imagin yourself that we wont have to be a Nany for a 3d printer.
