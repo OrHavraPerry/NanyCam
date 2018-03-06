@@ -7,7 +7,8 @@ We live in times that ai is not a dream, but a realety
 
 
 # What will it do?
-using cammera, NanyCam will Investigate the data and warn you for faults
+using cammera, NanyCam will Investigate the data and warn you for faults.
+
 the data will be sent to server witch is acssesible from everywhere
 
 # The Goal
